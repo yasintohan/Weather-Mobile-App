@@ -23,7 +23,7 @@ Bu uygulama staj görevlerinden biri olarak yapılmıştır. Bu uygulama arama y
 
 ## Description
 
-Bu uygulama staj görevlerinden biri olarak yapılmıştır. Bu uygulama arama yaptığınız yerin hava durumunu ve yerel saatini görmenize olanak sağlar.
+This application was made as one of the internship tasks. This application allows you to see the weather and local time of the place you are searching.
 
 > Api I use for weather -> [OpenWeather](https://openweathermap.org/api)
 
